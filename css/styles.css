@@ -804,8 +804,9 @@ h3 {
 
 .project-branch {
   font-size: 16px;
-  line-height: 1/88;
+  line-height: 1.88;
   letter-spacing: 0.03em;
+  color: var(--primary-text-color);
 }
 
 /* Backdrop */
